@@ -1,0 +1,18 @@
+求矩阵的逆
+http://www.docin.com/p-278769572.html
+
+机器学习经典算法详解及Python实现--线性回归（Linear Regression）算法
+http://blog.csdn.net/suipingsp/article/details/42101139
+
+初等函数导数公式
+http://www.shuxuecheng.com/gaosuzk/content/lljx/wzja/2/2-4.htm
+
+导数运算法则
+http://mshwwq.blog.163.com/blog/static/6958915720113229931858/
+
+latex常用公式
+http://mohu.org/info/symbols/symbols.htm
+https://www.latex-tutorial.com/symbols/math-symbols/
+
+分块矩阵行列式
+https://zhuanlan.zhihu.com/p/26285415
